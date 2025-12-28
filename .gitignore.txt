@@ -1,0 +1,7 @@
+# Large data files
+data/raw/*.txt
+data/raw/*.csv
+
+# Stata temporary files
+*.log
+*.smcl
