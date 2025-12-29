@@ -7,7 +7,7 @@
 ==============================================================================*/
 
 * Set working directory (CHANGE THIS TO YOUR ACTUAL PATH)
-cd "/Users/jun/Documents/minimum-wage-project"
+cd "/Users/heejunhwang/Documents/GitHub/minimum-wage-project"
 
 * Clear everything
 clear all
